@@ -18,3 +18,8 @@ containing the contents:
     (live-append-packs '(~/.live-packs/rust-pack))
 
 
+
+## Features
+
+Rust-mode integration
+Flymake integration
